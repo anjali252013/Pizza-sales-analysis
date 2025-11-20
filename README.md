@@ -1,10 +1,10 @@
-# Pizza Sales Analysis Using SQL:
+# 🍕Pizza Sales Analysis Using SQL:
 
 This project focuses on analyzing pizza sales data using SQL to identify key business insights.
 The goal is to understand customer buying patterns, peak order times, best-selling pizza categories, and overall revenue trends.
 By using SQL queries, we extract, clean, and analyze the data to support data-driven decision making for improving sales and operational efficiency.
 
-# Project Objective:
+# 📌Project Objective:
 
 To analyze pizza orders and sales performance
 
@@ -40,7 +40,7 @@ The business wants to understand its sales performance to:
   <a href = "https://github.com/anjali252013/Pizza-sales-analysis/blob/main/pizza%20sales%20analysis%20ppt-c.pdf">viewPPT</a>
  
 
-## 🛠️ Process / Approach:
+## 🛠️Approach:
 
 1️⃣ Data Cleaning
 
