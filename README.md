@@ -4,7 +4,7 @@ This project focuses on analyzing pizza sales data using SQL to identify key bus
 The goal is to understand customer buying patterns, peak order times, best-selling pizza categories, and overall revenue trends.
 By using SQL queries, we extract, clean, and analyze the data to support data-driven decision making for improving sales and operational efficiency.
 
-# 📌Project Objective:
+## 📌Project Objective:
 
 To analyze pizza orders and sales performance
 
@@ -17,7 +17,7 @@ To calculate revenue, order count, and category performance
 To help business owners make informed decisions
 
 
-## Data set used:
+## 📂Data set used:
 
 - <a href = "https://github.com/anjali252013/Pizza-sales-analysis">dataset</a>
 
