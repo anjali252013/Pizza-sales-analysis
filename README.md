@@ -25,93 +25,93 @@ To help business owners make informed decisions
 
 The business wants to understand its sales performance to:
 
-Improve revenue
+1. Improve revenue
 
-Optimize inventory
+2. Optimize inventory
 
-Identify customer trends
+3. Identify customer trends
 
-Decide which pizzas to promote or discontinue
+4. Decide which pizzas to promote or discontinue
 
-Improve operational efficiency during peak hours
+5. Improve operational efficiency during peak hours
 
 ## 🛠️ Process / Approach:
 
 1️⃣ Data Cleaning
 
-Removed duplicate records
+- Removed duplicate records
 
-Trimmed text fields
+- Trimmed text fields
 
-Standardized formats
+- Standardized formats
 
-Validated pizza size and category entries
+- Validated pizza size and category entries
 
 2️⃣ Data Analysis using SQL
 
 Queries used:
 
-Aggregations (SUM, AVG, COUNT)
+- Aggregations (SUM, AVG, COUNT)
 
-Joins (INNER JOIN)
+- Joins (INNER JOIN)
 
-Window functions
+- Window functions
 
-GROUP BY analysis
+- GROUP BY analysis
 
-Date-time extraction
+- Date-time extraction
 
 3️⃣ Insight Collection
 
-Extracted business insights from result grids:
+- Extracted business insights from result grids:
 
-Category performance
+- Category performance
 
-Sales trends
+- Sales trends
 
-Best sellers
+- Best sellers
 
-Revenue patterns
+- Revenue patterns
 
-Peak hours
+- Peak hours
 
 4️⃣ Documentation & Visualization
 
-Table summaries
+- Table summaries
 
-PowerPoint dashboard (Canva)
+- PowerPoint dashboard (Canva)
 
-GitHub README
+- GitHub README
 
 ## ⭐ Project Insights:
 
-The restaurant generated ₹817K+ in total revenue with 21,350 total orders during the analysis period.
+- The restaurant generated ₹817K+ in total revenue with 21,350 total orders during the analysis period.
 
-Classic pizzas were the most popular category with 14,888 units sold, followed by Supreme, Veggie, and Chicken.
+- Classic pizzas were the most popular category with 14,888 units sold, followed by Supreme, Veggie, and Chicken.
 
-Large (L) pizzas dominated sales with 18,526 orders, showing a strong customer preference for bigger portions.
+- Large (L) pizzas dominated sales with 18,526 orders, showing a strong customer preference for bigger portions.
 
-The top-selling pizzas included the Classic Deluxe, Barbecue Chicken, and Hawaiian Pizza, each selling over 2,400 units.
+- The top-selling pizzas included the Classic Deluxe, Barbecue Chicken, and Hawaiian Pizza, each selling over 2,400 units.
 
-The highest revenue-generating pizzas were the Thai Chicken, Barbecue Chicken, and California Chicken pizzas.
+- The highest revenue-generating pizzas were the Thai Chicken, Barbecue Chicken, and California Chicken pizzas.
 
-Peak ordering hours were observed between 12 PM–2 PM and 6 PM–8 PM, indicating lunch and dinner rush periods.
+- Peak ordering hours were observed between 12 PM–2 PM and 6 PM–8 PM, indicating lunch and dinner rush periods.
 
-The restaurant averaged 138 orders per day, showing stable and consistent demand.
+- The restaurant averaged 138 orders per day, showing stable and consistent demand.
 
-Daily revenue showed a steady upward cumulative trend, reflecting healthy business performance.
+- Daily revenue showed a steady upward cumulative trend, reflecting healthy business performance.
 
 ## 🏁 Final Conclusion:
 
-The Pizza Sales Analysis shows:
+- The Pizza Sales Analysis shows:
 
-The restaurant has a stable order rate, high demand for large-sized and classic pizzas, and
+- The restaurant has a stable order rate, high demand for large-sized and classic pizzas, and
 
-generates strong revenue from chicken-based pizzas.
+- generates strong revenue from chicken-based pizzas.
 
-Peak hours align with expected meal times, confirming predictable customer behavior.
+- Peak hours align with expected meal times, confirming predictable customer behavior.
 
-Insights can help optimize menu engineering, pricing, staffing, and marketing strategies.
+- Insights can help optimize menu engineering, pricing, staffing, and marketing strategies.
 
 ## 💡 Business Recommendations:
 
