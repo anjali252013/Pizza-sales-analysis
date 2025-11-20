@@ -37,8 +37,8 @@ The business wants to understand its sales performance to:
 
 ##  📂PPT
   pizza_sales_analysis_canva.pdf ppt
-  <a href = "hhtp:
-
+  <a href = "https://github.com/anjali252013/Pizza-sales-analysis/blob/main/pizza%20sales%20analysis%20ppt-c.pdf">viewPPT</a>
+ 
 
 ## 🛠️ Process / Approach:
 
