@@ -108,7 +108,7 @@ Queries used:
 
 ## 🏁 Final Conclusion:
 
-- The Pizza Sales Analysis shows:
+ The Pizza Sales Analysis shows:
 
 - The restaurant has a stable order rate, high demand for large-sized and classic pizzas, and
 
