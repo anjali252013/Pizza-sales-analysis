@@ -35,6 +35,11 @@ The business wants to understand its sales performance to:
 
 5. Improve operational efficiency during peak hours
 
+##  📂PPT
+  pizza_sales_analysis_canva.pdf ppt
+  <a href = "hhtp:
+
+
 ## 🛠️ Process / Approach:
 
 1️⃣ Data Cleaning
@@ -116,9 +121,13 @@ Queries used:
 ## 💡 Business Recommendations:
 
 ✔ Introduce meal combos during peak hours
+
 ✔ Promote classic and chicken pizzas (best sellers)
+
 ✔ Create discount offers for XL and XXL sizes
+
 ✔ Increase supply of ingredients for bestsellers
+
 ✔ Use daily revenue trend for staffing optimization
 
 
